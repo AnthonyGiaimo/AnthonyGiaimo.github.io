@@ -1,12 +1,12 @@
 {
   "$jason": {
     "head": {
-      "title": "Behave like a regular browser",
+      "title": "Be the fisrt for of contact with A4I",
       "description": "The web container will behave like a regular browser, refreshing content when you click a link"
     },
     "body": {
       "header": {
-        "title": "Regular Browser"
+        "title": "Alpha Test Inoovation Portal"
       },
       "background": {
         "type": "html",
