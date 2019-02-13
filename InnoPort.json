@@ -10,7 +10,7 @@
       },
       "background": {
         "type": "html",
-        "url": "https://news.ycombinator.com",
+        "url": "https://usaf.ideascalegov.com/a/sso/login",
         "action": {
           "type": "$default"
         }
